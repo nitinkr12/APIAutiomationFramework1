@@ -3,7 +3,7 @@ package com.nitinKr.com.test.Sample;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Sample {
+public class Sample1 {
 
     @Test(groups="qa",priority = 1)
     public void creatBookoing()
